@@ -110,7 +110,7 @@
 - Thử 1 *URL* ngáo cần thì nó hiện như trên, giờ rõ rồi, đường dẫn của nó kiểu
 
   ```
-  http://xxxxxxxx:10000/web/flag.php
+  http://xxxxxxxx:80/web/flag.php
   ```
 
 - Vấn đề là *localhost* của nó thuộc dạng nào, test thử vài cái sau thì fail fail
